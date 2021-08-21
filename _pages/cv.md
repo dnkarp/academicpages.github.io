@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A.(cum laude) in Urban Studies, University of Pennsylvania, 2010
+* Master of Urban Spatial Analytics (MUSA), University of Pennsylvania, 2013
+* Ph.D in Geography, University at Buffalo, State University of New York, 2022 (expected)
 
-Work experience
+Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Presidential Fellowship Award, 2018, 2019, 2020, 2021 (University at Buffalo, State University of New York)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Professional experience
+======
+* Graduate Teaching Assistant, August 2018 – Present; Dept. of Geography, Univ. at Buffalo, State Univ. of New York, Buffalo, NY 
+* Research Assistant (Dr. Adam Wilson), January 2019 – August 2019; Dept. of Geography, Univ. at Buffalo, State Univ. of New York, Buffalo, NY 
+* Research Analyst, July 2015 – Present; Department of Emergency Medicine, Sidney Kimmel Med. College, Thomas Jefferson Univ., Phila., PA 
+* Lead Project Manager, July 2013 – August 2018; Biostatistics & Epidemiology, School of Medicine, Univ. of Penn, Phila., PA 
+* Senior Research Coordinator, May 2013 – April 2015; 
+* Real Estate, The Wharton School, Univ. of Penn, Phila., PA 
+* MUSA Graduate Program Coordinator, May 2013 – April 2015; Penn Inst. Urban Research, PennDesign, Univ. of Penn, Phila. PA 
+* Data Analyst, May 2013 – January 2014; Fair Share Housing Center, Cherry Hill, NJ 
+* Data Intern, May 2012 – May 2013; PolicyMap, The Reinvestment Fund, Philadelphia, PA 
+* Program Manager, June 2010 – March 2012; Oglala Lakota Cultural and Economic Revitalization Initiative (OLCERI), Pine Ridge, SD 
+* Research Assistant, May 2009 – June 2010; Cartographic Modeling Lab, University of Pennsylvania, Philadelphia, PA
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Student Employee Union (GSEU) Department Mobilizer; University at Buffalo, State University of New York
