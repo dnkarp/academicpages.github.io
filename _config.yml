@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "David N. Karp"
   avatar           : "profile.jpeg"
-  bio              : "PhD Candidate in Geography"
+#  bio              : "PhD Candidate in Geography"
+  bio              : "PhD Candidate in Geography <br> <br> <a style='color: black;' href='http://www.buffalo.edu/cas/geography.html'>Department of Geography, State University of New York, University at Buffalo</a>"
   location         : "Buffalo, NY"
-  employer         : "Department of Geography \n University at Buffalo, SUNY"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BRw9kdoAAAAJ"
   email            : "dnkarp@buffalo.edu"
