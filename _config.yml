@@ -87,7 +87,7 @@ author:
   location         : "Buffalo, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=BRw9kdoAAAAJ"
+  googlescholar    : &googlescholar "https://scholar.google.com/citations?hl=en&user=BRw9kdoAAAAJ"
   email            : "dnkarp@buffalo.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

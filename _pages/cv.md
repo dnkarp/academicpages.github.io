@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A.(cum laude) in Urban Studies, University of Pennsylvania, 2010
-* Master of Urban Spatial Analytics (MUSA), University of Pennsylvania, 2013
 * Ph.D in Geography, University at Buffalo, State University of New York, 2022 (expected)
+* Master of Urban Spatial Analytics (MUSA), University of Pennsylvania, 2013
+* B.A.(cum laude) in Urban Studies, University of Pennsylvania, 2010
 
 Honors
 ======
@@ -33,8 +33,15 @@ Professional experience
 * Program Manager, June 2010 – March 2012; Oglala Lakota Cultural and Economic Revitalization Initiative (OLCERI), Pine Ridge, SD 
 * Research Assistant, May 2009 – June 2010; Cartographic Modeling Lab, University of Pennsylvania, Philadelphia, PA
   
-Technical Skills
+Software Skills
 ======
+ * Geospatial: ESRI ArcGIS, ArcPy Scripting Libraries (Python), GeoDa, R, QGIS 
+ * Statistical: Stata, R
+ * Database: MS Access, SQL 
+ * Programming: Python, Java
+ * Design: Adobe Creative Suite 
+ * Web-Development: GoogleMaps API, ArcGIS API for Flex, Javascript 
+ * Other: Linux/Bash, Git/GitHub
 
 Publications
 ======
@@ -42,6 +49,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+{% comment %}  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -53,7 +62,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+{% endcomment %}  
+
 Service and leadership
 ======
+* PhD Student Department Representative; University at Buffalo, State University of New York
 * Graduate Student Employee Union (GSEU) Department Mobilizer; University at Buffalo, State University of New York
