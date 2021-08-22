@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact Me
+## <a href='dnkarp@buffalo.edu'>Get in touch</a>

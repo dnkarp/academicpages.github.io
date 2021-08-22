@@ -45,7 +45,7 @@ Software Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -67,5 +67,5 @@ Teaching
 
 Service and leadership
 ======
-* PhD Student Department Representative; University at Buffalo, State University of New York
-* Graduate Student Employee Union (GSEU) Department Mobilizer; University at Buffalo, State University of New York
+* PhD Student Faculty Department Rep; University at Buffalo, SUNY
+* Graduate Student Employee Union (GSEU) Department Mobilizer; University at Buffalo, SUNY
