@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Get in touch {{ author.email }}
+## Get in touch {{ site.author.email }}
