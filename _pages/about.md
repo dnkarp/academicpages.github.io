@@ -1,20 +1,23 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hello"
+excerpt: "Hello"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm currently working to complete my dissertation research...
+Welcome to my website. I'm a geographer working on my doctorate at the University of Buffalo, SUNY. Below you can find information about my research interests and academic goals, and professional bio. Elsewhere on this site you can find details about <a hfer="portfolio.html"> past and ongoing projects</a>, <a hfer="publications.html"> highlighted publications</a> and <a hfer="talks.html"> talks </a>, and a full CV. Thanks for visiting, and feel to <a hfer="contact.html"> get in touch</a>.
 
-Research areas
-======
-...
+About me
+====== 
+I'm currently completing my dissertation research, which is presently titled, <i>Shrinking Cities: a geographic analysis of population change and reinvestment in the US.</i> I am investigating the patterns and dynamics of urban change at various spatial scales, and I am specifically curious about the role of public-private development in addressing spatial inequities. The objective of this project is two fold: (1) to explain variation in the kinds of communities facing challenges associated with population loss, and (2) to examine efficacy in revitalization efforts, which employ placed-based incentives to target investment into underdeveloped/disinvested communities. 
+
+My broader research interests cover topics in urban and economic geography, with a specific attention to issues of inequality and unevenness in processes of urbanization and development, and evaluating corresponding strategies of urban and regional policy and planning. I primarily use quantitative methods, and frequently work with US Census products and other national socio-demographic/socio-economic datasets. I have a background in urban studies and spatial analysis, and continue to grow my skillsets in areas of spatial statistics and modeling, geographic information systems, data mining, machine learning. 
+
+I'm currently based in Buffalo, NY, but originally from Philadelphia, PA. When it's not snowing I enjoying traveling on two wheels, and once ran the Lake Placid half-marathon (training for a full is still under debate). In other infrequent moments away from staring at computer code, I'm working on my skills as an amateur potter. I have been a proud member and organizer for my graduate student employee union.
 
 Bio
 ======
-...
-
+David Karp is a PhD candidate in the Department of Geography, at the University of Buffalo, State University of New York (expected gradation 2022). He completed his undergraduate degree in Urban Studies (2010), and masters degree in Urban Spatial Analytics (2013), both at the University of Pennsylvania. He is a Presidential fellow at UB, working under the advisement of Dr. Sharmistha Bagchi-Sen, where his dissertation research is investigating shrinking cities and urban reinvestment in the US. In addition to course work in economic geography, spatial statistics, data mining and machine learning, he has also taught an undergraduate lab on Earth, Environment, and Climate for the past four years. Prior to starting his doctorate, he spent five years working with a multi-disciplinary research group at the Perlman School of Medicine, University of Pennsylvania and the Sidney Kimmel Medical College, Thomas Jefferson University. As project manager and senior data analyst, he worked closely with multiple PIs, to develop a research portfolio on population health and health systems planning for acute care medicine. He assistated with drafting and submitting multiple Federal R01 grants, helped manage two active grants from NIH and HHS, and co-authored numerous peer-reviewed journal articles. Other professional and research experience includes work with the Penn Institute for Urban Research and the Wharton School, as assistant to Dr. Susan Wachter.

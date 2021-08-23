@@ -7,9 +7,10 @@ author_profile: true
 
 ## Get in touch 
 
+<a href="mailto:dnkarp@buffalo.edu"> dnkarp@buffalo.edu</a>
+
 105 Wilkeson Quad <br>
 Ellicott Complex, North Campus <br>
 Buffalo, NY 14261 <br>
-<a href="mailto:dnkarp@buffalo.edu"> "dnkarp@buffalo.edu"</a>
 
-Schedule an meeting through <a href="https://calendly.com/karpd/"> "Calendly"</a>
+Schedule an meeting or office hours through <a href="https://calendly.com/karpd/"> Calendly</a>
