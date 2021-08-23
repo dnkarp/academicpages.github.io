@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I'm a geographer working on my doctorate at the University of Buffalo, SUNY. Below you can find information about my research interests and academic goals, and professional bio. Elsewhere on this site you can find details about <a hfer="portfolio.html"> past and ongoing projects</a>, <a hfer="publications.html"> highlighted publications</a> and <a hfer="talks.html"> talks </a>, and a full CV. Thanks for visiting, and feel to <a hfer="contact.html"> get in touch</a>.
+Welcome to my website. I'm a geographer working on my doctorate at the University of Buffalo, SUNY. Below you can find information about my research interests and academic goals, and professional bio. Elsewhere on this site you can find details about <a hfer="{{ base_path }}portfolio"> past and ongoing projects</a>, <a hfer="{{ base_path }}publications"> highlighted publications</a> and <a hfer="{{ base_path }}talks"> talks </a>, and a <a hfer="{{ base_path }}CV">full CV</a>. Thanks for visiting, and feel to <a hfer="{{ base_path }}contact"> get in touch</a>.
 
 About me
 ====== 
