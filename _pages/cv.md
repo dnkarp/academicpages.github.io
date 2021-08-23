@@ -19,13 +19,13 @@ Education
 
 Honors
 ======
-* Presidential Fellowship Award, 2018, 2019, 2020, 2021 (University at Buffalo, State University of New York)
+* Presidential Fellowship Award, 2018-2022 (University at Buffalo, State University of New York)
 
 Professional experience
 ======
 * Graduate Teaching Assistant, August 2018 – Present; Dept. of Geography, Univ. at Buffalo, State Univ. of New York, Buffalo, NY 
 * Research Assistant (Dr. Adam Wilson), January 2019 – August 2019; Dept. of Geography, Univ. at Buffalo, State Univ. of New York, Buffalo, NY 
-* Research Analyst, July 2015 – Present; Department of Emergency Medicine, Sidney Kimmel Med. College, Thomas Jefferson Univ., Phila., PA 
+* Research Analyst, July 2015 – January 2019; Dept. of Emergency Medicine, Sidney Kimmel Med. College, Thomas Jefferson Univ., Phila., PA 
 * Lead Project Manager, July 2013 – August 2018; Biostatistics & Epidemiology, School of Medicine, Univ. of Penn, Phila., PA 
 * Senior Research Coordinator, May 2013 – April 2015; 
 * Real Estate, The Wharton School, Univ. of Penn, Phila., PA 
