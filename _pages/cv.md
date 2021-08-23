@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{base_path}}files/Karp_CV_aug2021.pdf">Download PDF version here</a>.
+<a href="{{ base_path }}files/Karp_CV_aug2021.pdf">Download PDF version here</a>.
 
 Education
 ======
