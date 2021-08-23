@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{base_path}}files/Karp_CV_aug2021.pdf">Download PDF version here</a>.
+
 Education
 ======
 * Ph.D in Geography, University at Buffalo, State University of New York, 2022 (expected)
