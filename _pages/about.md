@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I'm a geographer working on my doctorate at the University of Buffalo, SUNY. Below you can find information about my research interests and academic goals, and professional bio. Elsewhere on this site you can find details about past and ongoing projects</a>, <a href="{{ base_path }}publications">highlighted publications</a> and talks, and a <a href="{{ base_path }}cv">full CV</a>. Thanks for visiting, and feel to <a href="{{ base_path }}contact">get in touch</a>.
+Welcome to my website. I'm a geographer working on my doctorate at the University of Buffalo, SUNY. Below you can find information about my research interests and academic goals, and professional bio. Elsewhere on this site you can find details about past and ongoing projects, <a href="{{ base_path }}publications">select publications</a> and talks, and my <a href="{{ base_path }}cv">full CV</a>. Thanks for visiting, and feel to <a href="{{ base_path }}contact">get in touch</a>.
 
 About me
 ====== 
 I'm currently completing my dissertation research, which is presently titled, <i>Shrinking Cities: a geographic analysis of population change and reinvestment in the US.</i> I am investigating the patterns and dynamics of urban change at various spatial scales, and I am specifically curious about the role of public-private development in addressing spatial inequities. The objective of this project is two fold: (1) to explain variation in the kinds of communities facing challenges associated with population loss, and (2) to examine efficacy in revitalization efforts, which employ placed-based incentives to target investment into underdeveloped/disinvested communities. 
 
 My broader research interests cover topics in urban and economic geography, with a specific attention to issues of inequality and unevenness in processes of urbanization and development, and evaluating corresponding strategies of urban and regional policy and planning. I primarily use quantitative methods, and frequently work with US Census products and other national socio-demographic/socio-economic datasets. I have a background in urban studies and spatial analysis, and continue to grow my skillsets in areas of spatial statistics and modeling, geographic information systems, data mining, machine learning. 
-
-I'm currently based in Buffalo, NY, but originally from Philadelphia, PA. When it's not snowing I enjoying traveling on two wheels, and once ran the Lake Placid half-marathon (training for a full is still under debate). In other infrequent moments away from staring at computer code, I'm working on my skills as an amateur potter. I have been a proud member and organizer for my graduate student employee union.
 
 Bio
 ======
