@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidkarp/GoogleDrive/projects/website",
+		"/Users/davidkarp/GoogleDrive/projects/website/_data",
+		"/Users/davidkarp/GoogleDrive/projects/website/_includes",
+		"/Users/davidkarp/GoogleDrive/projects/website/_layouts",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages",
+		"/Users/davidkarp/GoogleDrive/projects/website/_publications",
+		"/Users/davidkarp/GoogleDrive/projects/website/files",
+		"/Users/davidkarp/GoogleDrive/projects/website/markdown_generator",
+		"/Users/davidkarp/GoogleDrive/projects/website/papers"
+	],
+	"file_history":
+	[
+		"/Users/davidkarp/GoogleDrive/projects/website/_includes/archive-single.html",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages/about.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages/cv.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages/publications.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/markdown_generator/publications.py",
+		"/Users/davidkarp/GoogleDrive/projects/website/_publications/2015-06-01-kilaru2015-medcare.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/markdown_generator/publications.tsv",
+		"/Users/davidkarp/GoogleDrive/projects/website/_publications/2018-04-20-carr2018-annemergmed.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_includes/author-profile.html",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages/portfolio.html",
+		"/Users/davidkarp/GoogleDrive/projects/website/_data/navigation.yml",
+		"/Users/davidkarp/GoogleDrive/projects/website/_includes/base_path",
+		"/Users/davidkarp/GoogleDrive/projects/website/_config.yml",
+		"/Users/davidkarp/GoogleDrive/projects/website/_layouts/archive.html",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages/sitemap.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages/contact.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_includes/paginator.html",
+		"/Users/davidkarp/GoogleDrive/projects/website/_layouts/single.html",
+		"/Users/davidkarp/GoogleDrive/projects/website/_publications/2017-01-19-rising2017-hsr.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_publications/2016-05-19-karp2016-strokeaha.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_publications/2009-10-01-paper-title-number-1.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_publications/16-karp2016_strokeaha.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages/xxx-about.md",
+		"/Users/davidkarp/GoogleDrive/projects/website/XXX_README.md",
+		"/Users/davidkarp/Desktop/cp_msgs.sh",
+		"/Users/davidkarp/Google Drive/projects/changing_cities/analysis/changing_cities.sublime-project"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/davidkarp/GoogleDrive/projects/website,<project filters>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"twitter",
+			"author.",
+			"files",
+			"pdf",
+			"twitter",
+			"email",
+			"CV",
+			"email",
+			"image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal-website.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
