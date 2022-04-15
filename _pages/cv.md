@@ -23,28 +23,17 @@ Honors
 
 Professional experience
 ======
-* Graduate Teaching Assistant, August 2018 – Present; Dept. of Geography, Univ. at Buffalo, State Univ. of New York, Buffalo, NY 
-* Research Assistant (Dr. Adam Wilson), January 2019 – August 2019; Dept. of Geography, Univ. at Buffalo, State Univ. of New York, Buffalo, NY 
-* Research Analyst, July 2015 – January 2019; Dept. of Emergency Medicine, Sidney Kimmel Med. College, Thomas Jefferson Univ., Phila., PA 
-* Lead Project Manager, July 2013 – August 2018; Biostatistics & Epidemiology, School of Medicine, Univ. of Penn, Phila., PA 
-* Senior Research Coordinator, May 2013 – April 2015; 
-* Real Estate, The Wharton School, Univ. of Penn, Phila., PA 
-* MUSA Graduate Program Coordinator, May 2013 – April 2015; Penn Inst. Urban Research, PennDesign, Univ. of Penn, Phila. PA 
-* Data Analyst, May 2013 – January 2014; Fair Share Housing Center, Cherry Hill, NJ 
-* Data Intern, May 2012 – May 2013; PolicyMap, The Reinvestment Fund, Philadelphia, PA 
-* Program Manager, June 2010 – March 2012; Oglala Lakota Cultural and Economic Revitalization Initiative (OLCERI), Pine Ridge, SD 
-* Research Assistant, May 2009 – June 2010; Cartographic Modeling Lab, University of Pennsylvania, Philadelphia, PA
-  
-Software Skills
-======
- * Geospatial: ESRI ArcGIS, ArcPy Scripting Libraries (Python), GeoDa, R, QGIS 
- * Statistical: Stata, R
- * Database: MS Access, SQL 
- * Programming: Python, Java
- * Design: Adobe Creative Suite 
- * Web-Development: GoogleMaps API, ArcGIS API for Flex, Javascript 
- * Other: Linux/Bash, Git/GitHub
-
+* Graduate Teaching Assistant, 2018 – Present; Dept. of Geography, Univ. at Buffalo, State Univ. of New York, Buffalo, NY 
+* Research Assistant (Dr. Adam Wilson), 2019; Dept. of Geography, Univ. at Buffalo, State Univ. of New York, Buffalo, NY 
+* Research Analyst, 2015 – 2019; Dept. of Emergency Medicine, Sidney Kimmel Med. College, Thomas Jefferson Univ., Phila., PA 
+* Lead Project Manager, 2013 – 2018; Biostatistics & Epidemiology, School of Medicine, Univ. of Penn, Phila., PA 
+* Senior Research Coordinator, 2013 – April 2015; Real Estate, The Wharton School, Univ. of Penn, Phila., PA 
+* MUSA Graduate Program Coordinator, 2013 – 2015; Penn Inst. Urban Research, PennDesign, Univ. of Penn, Phila. PA 
+* Data Analyst, 2013 – 2014; Fair Share Housing Center, Cherry Hill, NJ 
+* Data Intern, 2012 – 2013; PolicyMap, The Reinvestment Fund, Philadelphia, PA 
+* Program Manager, 2010 – 2012; Oglala Lakota Cultural and Economic Revitalization Initiative (OLCERI), Pine Ridge, SD 
+* Research Assistant, 2009 – 2010; Cartographic Modeling Lab, University of Pennsylvania, Philadelphia, PA
+ 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -67,6 +56,16 @@ Teaching
 
 {% endcomment %}  
 
+Software Skills
+======
+ * Geospatial: R, GeoDa, QGIS, ESRI ArcGIS, ArcPy Scripting (Python), 
+ * Statistical: R, Stata
+ * Database: SQL, MS Access 
+ * Programming: Python, Java
+ * Design: Adobe Creative Suite 
+ * Web-Development: GoogleMaps API, ArcGIS API for Flex, Javascript 
+ * Other: Linux/Bash, Git/GitHub
+ 
 Service and leadership
 ======
 * PhD Student Faculty Department Rep; University at Buffalo, SUNY
