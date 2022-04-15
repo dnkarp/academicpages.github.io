@@ -2,7 +2,6 @@
 title: "Reassessing the Stroke Belt: Using Small Area Spatial Statistics to Identify Clusters of High Stroke Mortality in the United States"
 collection: publications
 permalink: /publication/2016-05-19-karp2016-strokeaha
-excerpt: 'The stroke belt is described as an 8-state region with high stroke mortality across the southeastern United States. Using spatial statistics, we identified clusters of high stroke mortality (hot spots) and adjacent areas of low stroke mortality (cool spots) for US counties and evaluated for regional differences in county-level risk factors.'
 date: 2016-05-19
 venue: 'Stroke'
 ---

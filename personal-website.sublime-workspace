@@ -52,19 +52,19 @@
 	],
 	"file_history":
 	[
-		"/Users/davidkarp/GoogleDrive/projects/website/_includes/archive-single.html",
+		"/Users/davidkarp/GoogleDrive/projects/website/markdown_generator/publications.tsv",
 		"/Users/davidkarp/GoogleDrive/projects/website/_pages/about.md",
 		"/Users/davidkarp/GoogleDrive/projects/website/_pages/cv.md",
-		"/Users/davidkarp/GoogleDrive/projects/website/_pages/publications.md",
 		"/Users/davidkarp/GoogleDrive/projects/website/markdown_generator/publications.py",
+		"/Users/davidkarp/GoogleDrive/projects/website/_config.yml",
+		"/Users/davidkarp/GoogleDrive/projects/website/_includes/archive-single.html",
+		"/Users/davidkarp/GoogleDrive/projects/website/_pages/publications.md",
 		"/Users/davidkarp/GoogleDrive/projects/website/_publications/2015-06-01-kilaru2015-medcare.md",
-		"/Users/davidkarp/GoogleDrive/projects/website/markdown_generator/publications.tsv",
 		"/Users/davidkarp/GoogleDrive/projects/website/_publications/2018-04-20-carr2018-annemergmed.md",
 		"/Users/davidkarp/GoogleDrive/projects/website/_includes/author-profile.html",
 		"/Users/davidkarp/GoogleDrive/projects/website/_pages/portfolio.html",
 		"/Users/davidkarp/GoogleDrive/projects/website/_data/navigation.yml",
 		"/Users/davidkarp/GoogleDrive/projects/website/_includes/base_path",
-		"/Users/davidkarp/GoogleDrive/projects/website/_config.yml",
 		"/Users/davidkarp/GoogleDrive/projects/website/_layouts/archive.html",
 		"/Users/davidkarp/GoogleDrive/projects/website/_pages/sitemap.md",
 		"/Users/davidkarp/GoogleDrive/projects/website/_pages/contact.md",
@@ -81,7 +81,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -206,7 +206,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 252.0,
+	"side_bar_width": 326.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
